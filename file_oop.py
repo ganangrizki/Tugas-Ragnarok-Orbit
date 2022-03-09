@@ -17,6 +17,5 @@ class Buaya(Hewan):
     harimau1=Harimau
     (buaya1=Buaya()
 
-    harimau1.caramemakan()
-    buaya1.caramemakan()
-     
+   buaya1.buaya()
+   buaya1.caramakan()
